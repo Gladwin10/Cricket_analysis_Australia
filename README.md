@@ -1,7 +1,7 @@
 
-# Are heavier bats ideal for attacking players to succeed in Australia in Test Cricket?
+# Hypothesis: Are heavier bats ideal for attacking players to succeed in Australia?
 
-## *Relationship between Bat weights (lbs.) and Runs Per Innings (RPI) of players in Australia*.
+## *Relationship between Bat weights (lbs.) and Runs Per Innings (RPI) of players in Australia (test cricket)*.
 
 Runs Per Innings (RPI) is derived by dividing the total runs by the number of innings (doesn't consider Not Outs). 
 
